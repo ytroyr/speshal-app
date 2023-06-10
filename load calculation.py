@@ -1,5 +1,5 @@
-update = float(input("Введите размер загрузки (в МБ) "))
-internet = float(input("Введите скорость интернет подключения (в МБ/с) "))
+update = float(input("Введите размер загрузки (в МБ): "))
+internet = float(input("Введите скорость интернет подключения (в МБ/с): "))
 download = 0
 prosent = update * 0.01
 sec = 0
