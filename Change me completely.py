@@ -1,4 +1,4 @@
 print("hello world")
-print("loading...")
+print("loading... Please wait...")
 print("Мяу Мяу Мяу")
 print()
