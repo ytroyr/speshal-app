@@ -1,7 +1,7 @@
 print("hello world")
 print("loading... Please wait...")
 print("Мяу Мяу Мяу")
-print()
+print("Музыка не музыканта")
 print("Кто?")
 print("Ты.")
 print("Я?")
